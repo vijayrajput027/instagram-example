@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\VAG\\AndroidStudioProjects\\instagram-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_comments.xml",
+        "source": "C:\\Users\\VAG\\AndroidStudioProjects\\instagram-master\\app\\src\\main\\res\\menu\\menu_comments.xml"
+    },
+    {
+        "merged": "D:\\Project Module\\Android Studio\\instagram-example\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_photos.xml",
+        "source": "D:\\Project Module\\Android Studio\\instagram-example\\app\\src\\main\\res\\menu\\menu_photos.xml"
+    },
+    {
+        "merged": "C:\\Users\\VAG\\AndroidStudioProjects\\instagram-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_photos.xml",
+        "source": "C:\\Users\\VAG\\AndroidStudioProjects\\instagram-master\\app\\src\\main\\res\\menu\\menu_photos.xml"
+    },
+    {
+        "merged": "D:\\Project Module\\Android Studio\\instagram-example\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_comments.xml",
+        "source": "D:\\Project Module\\Android Studio\\instagram-example\\app\\src\\main\\res\\menu\\menu_comments.xml"
+    }
+]
